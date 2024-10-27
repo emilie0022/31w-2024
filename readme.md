@@ -4,4 +4,9 @@
 ### Les objectifs du thème
 - Vous aider à réaliser votre propre thème
 - Documenter les concepts de base
-- Ajouter les références qui ont permis de solutionner certains problèmes
+- Ajouter les références qui ont permis de solutionner certains problèmesgit
+
+##exercice-1
+
+### objectif: realiser un theme de base
+-Auteur : Emilie Desmarais
